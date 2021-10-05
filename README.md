@@ -1,10 +1,10 @@
-**OLA trigger config to control Shelly 1/1PM relay with DMX (Art-Net, sACN or via DMX input)**
+**OLA trigger config to control Shelly 1/1PM/Plus 1 relay with DMX (Art-Net, sACN or via DMX input)**
 
 **Requirements**  
 
 * [OLA](https://www.openlighting.org/ola/)
 * [curl](https://curl.haxx.se/)
-* [Shelly 1 or 1PM](https://shelly.cloud/)
+* [Shelly 1, 1PM or Plus 1](https://shelly.cloud/)
 
 **Installation**
   
